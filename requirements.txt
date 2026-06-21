@@ -1,0 +1,12 @@
+setuptools
+wheel
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+librosa
+soundfile
+joblib
+streamlit
+streamlit-mic-recorder
+praat-parselmouth
